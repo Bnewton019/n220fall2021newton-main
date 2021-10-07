@@ -15,6 +15,13 @@ console.log('Harold energy increased by 5.');
     }
 } 
 
+
+
+function updateEnergy() {
+
+}
+
+
 let Harold = new Pet("Harold");
 
 
