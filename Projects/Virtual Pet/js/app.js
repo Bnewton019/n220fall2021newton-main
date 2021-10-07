@@ -7,6 +7,7 @@ function Pet(type) {
     this.age = 1;
     this.feed = function() {
 let food = this.energy +5;
+console.log(this.name, this.energy, this.happiness, this. age);
 console.log('Harold energy increased by 5.'); 
     }
     this.play = function() {
